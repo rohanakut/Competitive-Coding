@@ -1,6 +1,9 @@
 #include <iostream>
 #define mod 109546051211LL
 using namespace std;
+/*
+code to make sure that if a nd b are very large(12 digits each) then mod operation is performed appropriately
+*/
 long long int overflow_check(long long int a,long long int b)
 {
 	long long int res=0;
