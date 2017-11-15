@@ -1,3 +1,5 @@
+//generates total number of co primes for that number
+// reference : gfg(http://www.geeksforgeeks.org/eulers-totient-function/)
 #include <iostream>
 #include<cmath>
 using namespace std;
