@@ -1,5 +1,6 @@
+#include<iostream>
 #include <stdio.h>
- 
+using namespace std;
 int main(void) {
 	unsigned long long int t,a,b,c;
 	int i;
